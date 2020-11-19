@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Webtalk v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# 
+# Start of session at: Sun May 07 22:46:47 2017
+# Process ID: 10792
+# Log file: C:/Zynq_Book/project_stepper_DIP/project_stepper_DIP.sdk/webtalk/webtalk.log
+# Journal file: C:/Zynq_Book/project_stepper_DIP/project_stepper_DIP.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
