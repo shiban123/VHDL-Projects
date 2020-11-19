@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Mon May 08 16:24:59 2017
+# Process ID: 9960
+# Log file: C:/Zynq_Book/project_stepper_DIP/vivado.log
+# Journal file: C:/Zynq_Book/project_stepper_DIP\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Zynq_Book/project_stepper_DIP/project_stepper_DIP.xpr
+launch_sdk -workspace C:/Zynq_Book/project_stepper_DIP/project_stepper_DIP.sdk -hwspec C:/Zynq_Book/project_stepper_DIP/project_stepper_DIP.sdk/design_project_DIP_wrapper.hdf

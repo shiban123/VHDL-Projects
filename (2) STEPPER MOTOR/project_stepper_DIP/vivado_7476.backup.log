@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Mon May 08 16:24:59 2017
+# Process ID: 9960
+# Log file: C:/Zynq_Book/project_stepper_DIP/vivado.log
+# Journal file: C:/Zynq_Book/project_stepper_DIP\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Zynq_Book/project_stepper_DIP/project_stepper_DIP.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/XilinxSOC/Vivado/2015.2/data/ip'.
+open_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:13 . Memory (MB): peak = 681.395 ; gain = 142.695
+launch_sdk -workspace C:/Zynq_Book/project_stepper_DIP/project_stepper_DIP.sdk -hwspec C:/Zynq_Book/project_stepper_DIP/project_stepper_DIP.sdk/design_project_DIP_wrapper.hdf
+INFO: [Vivado 12-393] Launching SDK...
+INFO: [Vivado 12-417] Running xsdk -workspace C:/Zynq_Book/project_stepper_DIP/project_stepper_DIP.sdk -hwspec C:/Zynq_Book/project_stepper_DIP/project_stepper_DIP.sdk/design_project_DIP_wrapper.hdf
+INFO: [Vivado 12-3157] SDK launch initiated. Please check console for any further messages.
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon May 08 16:45:52 2017...
