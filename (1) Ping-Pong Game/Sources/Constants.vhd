@@ -1,6 +1,5 @@
 ----------------------------------------------------------------------------------
--- Engineer: EFE ACER
--- Project Name: Pong Game
+-- Project Name: Ping Pong Game
 -- Brief: This code is a package consisting of data related to some frequently
 --        used constants.
 ----------------------------------------------------------------------------------
