@@ -1,6 +1,5 @@
 ----------------------------------------------------------------------------------
--- Engineer: EFE ACER
--- Project Name: Pong Game
+-- Project Name: Ping Pong Game
 -- Brief: The top module of the project, receives its input from the board, generates
 --        the outputs using its submodules and sends them to the monitor from the board. 
 ----------------------------------------------------------------------------------
