@@ -1,6 +1,5 @@
 ---------------------------------------------------------------------------------- 
--- Engineer: EFE ACER
--- Project Name: Pong Game
+-- Project Name: Ping Pong Game
 -- Brief: This is a module to compute and return the position of the ball according
 --        to the inputs given to it (positions of the paddles). The module interacts
 --        with the Sync module to inform it about the balls position. It also handles
