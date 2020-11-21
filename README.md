@@ -4,7 +4,6 @@ Here I have created multiple VHDL projects like Ping-Pong Game and Stepper motor
 
 This projects were built on Xilinx Vivado.
 
-![GitHub Logo]((1) Ping-Pong Game/Simulation Results/WhatsApp Image 2020-11-18 at 6.02.18 PM.jpeg)
-Format: ![Alt Text](url)
+![PINGPONG]((1)%20Ping-Pong%20Game/Simulation%20Results/WhatsApp%20Image%202020-11-18%20at%206.02.18%20PM.jpeg)
 
 You can see more info in relavent project folder.
